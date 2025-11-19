@@ -1,0 +1,618 @@
+[
+    {
+      "id": 1,
+      "name": "Jason Martinez",
+      "rating": 5,
+      "message": "Been using CryptoRiq for 3 months now and honestly it's been solid. Up about 18% overall which beats my own attempts at trading lol. The automated system does its thing and I just check in weekly.",
+      "avatar": "https://i.pravatar.cc/50?img=11"
+    },
+    {
+      "id": 2,
+      "name": "Amanda Foster",
+      "rating": 4,
+      "message": "Pretty happy with the results so far. Had a rough patch in September but they recovered well. Customer service could be faster but the trading algo seems legit.",
+      "avatar": "https://i.pravatar.cc/50?img=12"
+    },
+    {
+      "id": 3,
+      "name": "Derek Thompson",
+      "rating": 3,
+      "message": "It's okay I guess. Some months are great, others not so much. I think I expected more consistent gains. Still beats leaving money in a savings account though.",
+      "avatar": "https://i.pravatar.cc/50?img=13"
+    },
+    {
+      "id": 4,
+      "name": "Priya Sharma",
+      "rating": 5,
+      "message": "Finally a platform that actually works! I tried trading myself for 6 months and lost money. CryptoRiq has me in the green and I don't have to stress about charts anymore. Worth every penny of the subscription.",
+      "avatar": "https://i.pravatar.cc/50?img=14"
+    },
+    {
+      "id": 5,
+      "name": "Mike O'Brien",
+      "rating": 4,
+      "message": "Good platform overall. The interface is clean and I like getting the weekly reports. Wish they had more plan options but the mid-tier one has been doing well for me. +22% in 5 months.",
+      "avatar": "https://i.pravatar.cc/50?img=15"
+    },
+    {
+        "id": 6,
+        "name": "Lisa Wang",
+        "rating": 4,
+        "message": "Started on the basic plan to test things out. Results are modest but stable so far. Thinking about upgrading to unlock more features since the platform seems solid.",
+        "avatar": "https://i.pravatar.cc/50?img=16"
+      },
+      
+    {
+      "id": 7,
+      "name": "Carlos Mendoza",
+      "rating": 5,
+      "message": "Best decision I made this year! Set it and forget it. They handle everything and I'm actually making money in crypto without the headache. Support team is responsive too.",
+      "avatar": "https://i.pravatar.cc/50?img=17"
+    },
+    {
+      "id": 8,
+      "name": "Rachel Green",
+      "rating": 4,
+      "message": "Solid platform. Had some questions at the start and their team walked me through everything. Returns are decent, nothing crazy but steady growth. That's what I wanted anyway.",
+      "avatar": "https://i.pravatar.cc/50?img=18"
+    },
+    {
+        "id": 9,
+        "name": "Ahmed Hassan",
+        "rating": 4,
+        "message": "Good platform overall. I just recommend reviewing the plan details so you fully understand cost structure. Performance has been steady and transparent.",
+        "avatar": "https://i.pravatar.cc/50?img=19"
+      },
+    {
+      "id": 10,
+      "name": "Jennifer Liu",
+      "rating": 5,
+      "message": "Love this! I was so intimidated by crypto trading but CryptoRiq made it easy. Just connected my exchange and they took over. Up 15% in my first 2 months!",
+      "avatar": "https://i.pravatar.cc/50?img=20"
+    },
+    {
+      "id": 11,
+      "name": "Tom Bradley",
+      "rating": 4,
+      "message": "Been with them since August. Some volatility but that's crypto for you. Overall trending up which is what matters. Dashboard could use some improvements though.",
+      "avatar": "https://i.pravatar.cc/50?img=21"
+    },
+    {
+      "id": 12,
+      "name": "Sofia Petrov",
+      "rating": 5,
+      "message": "Finally making money in crypto! Tried day trading on my own and it was a disaster. CryptoRiq's algorithms are way smarter than me lol. Highly recommend.",
+      "avatar": "https://i.pravatar.cc/50?img=22"
+    },
+    
+    {
+      "id": 14,
+      "name": "Nicole Anderson",
+      "rating": 4,
+      "message": "Pretty good experience so far. Not getting rich quick but seeing steady gains. The subscription is reasonable for the convenience of not having to trade myself.",
+      "avatar": "https://i.pravatar.cc/50?img=24"
+    },
+    {
+      "id": 15,
+      "name": "Ryan Cooper",
+      "rating": 5,
+      "message": "This is exactly what I needed. Work full time and don't have hours to watch crypto markets. CryptoRiq handles it all and sends me updates. Up 27% since June!",
+      "avatar": "https://i.pravatar.cc/50?img=25"
+    },
+    {
+        "id": 16,
+        "name": "Maya Patel",
+        "rating": 4,
+        "message": "Returns have been stable so far. Customer support took a bit longer to reply than expected, but they resolved my issue properly. Overall a good experience.",
+        "avatar": "https://i.pravatar.cc/50?img=26"
+      },
+      
+    {
+      "id": 17,
+      "name": "Chris Murphy",
+      "rating": 4,
+      "message": "Good platform for passive crypto investing. The automated trading works well most of the time. Had one scary dip but they managed risk well and recovered quickly.",
+      "avatar": "https://i.pravatar.cc/50?img=27"
+    },
+    {
+      "id": 18,
+      "name": "Yuki Tanaka",
+      "rating": 5,
+      "message": "Exceeded my expectations! Started with the premium plan and very happy with results. The AI trading is impressive. +31% in 4 months. Will definitely continue.",
+      "avatar": "https://i.pravatar.cc/50?img=28"
+    },
+    {
+        "id": 19,
+        "name": "Brandon Lee",
+        "rating": 4,
+        "message": "Good service with some variability depending on the market. When things move fast, the platform adapts well. Overall positive results.",
+        "avatar": "https://i.pravatar.cc/50?img=29"
+      },
+      
+    {
+      "id": 20,
+      "name": "Emily Watson",
+      "rating": 4,
+      "message": "Happy with my choice. The platform is user-friendly and the trading strategy seems sound. Made back my subscription fee in the first month and then some.",
+      "avatar": "https://i.pravatar.cc/50?img=30"
+    },
+    {
+      "id": 21,
+      "name": "Luis Garcia",
+      "rating": 5,
+      "message": "Best automated trading platform I've tried. Had bad experiences with others but CryptoRiq is transparent and actually delivers. 10/10 would recommend to friends.",
+      "avatar": "https://i.pravatar.cc/50?img=31"
+    },
+    {
+      "id": 22,
+      "name": "Hannah Schmidt",
+      "rating": 4,
+      "message": "Really like it so far. Setup was super easy and I started seeing results within the first week. Only complaint is I wish there was a mobile app.",
+      "avatar": "https://i.pravatar.cc/50?img=32"
+    },
+    {
+        "id": 23,
+        "name": "Tyler Johnson",
+        "rating": 4,
+        "message": "The service works best for medium to larger portfolios. Once I increased my investment a bit, I started seeing better gains. Good system if used correctly.",
+        "avatar": "https://i.pravatar.cc/50?img=33"
+      },
+      
+    {
+      "id": 24,
+      "name": "Zara Ahmed",
+      "rating": 5,
+      "message": "Absolutely love CryptoRiq! Was skeptical at first but they've proven themselves. Consistent profits, great support, easy to use. Can't ask for more.",
+      "avatar": "https://i.pravatar.cc/50?img=34"
+    },
+    {
+      "id": 25,
+      "name": "Nathan Brooks",
+      "rating": 4,
+      "message": "Solid service. The algorithmic trading does better than I ever could manually. Seeing about 3-5% monthly gains on average. Very satisfied.",
+      "avatar": "https://i.pravatar.cc/50?img=35"
+    },
+    {
+        "id": 26,
+        "name": "Isabella Costa",
+        "rating": 4,
+        "message": "The platform performs consistently and is easy to use. Initially expected higher returns, but after learning more about the strategy I appreciate the steady approach.",
+        "avatar": "https://i.pravatar.cc/50?img=36"
+      },
+      
+    {
+      "id": 27,
+      "name": "Jake Morrison",
+      "rating": 5,
+      "message": "Game changer for me! Used to spend hours analyzing charts and still lost money. CryptoRiq's system is way more efficient. Up 19% in 3 months without any effort.",
+      "avatar": "https://i.pravatar.cc/50?img=37"
+    },
+    {
+      "id": 28,
+      "name": "Olivia Martin",
+      "rating": 4,
+      "message": "Very pleased with the service. The trading bot makes smart decisions and the risk management is good. Had a few minor issues but support fixed them quickly.",
+      "avatar": "https://i.pravatar.cc/50?img=38"
+    },
+    {
+        "id": 29,
+        "name": "Marcus Davis",
+        "rating": 4,
+        "message": "Started during a rough market period, but once conditions improved the system performed much better. Happy I stuck with it.",
+        "avatar": "https://i.pravatar.cc/50?img=39"
+      },
+      
+    {
+      "id": 30,
+      "name": "Chloe Williams",
+      "rating": 5,
+      "message": "Fantastic platform! Easy setup, great results, responsive team. Everything you want in an automated trading service. Been with them 6 months now and very happy.",
+      "avatar": "https://i.pravatar.cc/50?img=40"
+    },
+    {
+      "id": 31,
+      "name": "Daniel Kim",
+      "rating": 4,
+      "message": "Good experience overall. The performance has been solid and I like that I can see all the trades they make. Transparency is important to me.",
+      "avatar": "https://i.pravatar.cc/50?img=41"
+    },
+    {
+      "id": 32,
+      "name": "Grace Thompson",
+      "rating": 3,
+      "message": "Decent but nothing special. Getting small gains which is fine. I think if you're expecting to get rich this isn't it, but it's a steady option.",
+      "avatar": "https://i.pravatar.cc/50?img=42"
+    },
+    {
+      "id": 33,
+      "name": "Alex Turner",
+      "rating": 5,
+      "message": "Couldn't be happier! Tried 3 other platforms before this and CryptoRiq is the only one that delivered real results. My portfolio is finally growing!",
+      "avatar": "https://i.pravatar.cc/50?img=43"
+    },
+    {
+      "id": 34,
+      "name": "Samantha Reed",
+      "rating": 4,
+      "message": "Really solid platform. The subscription is worth it for the peace of mind alone. Don't have to worry about making bad emotional trades anymore.",
+      "avatar": "https://i.pravatar.cc/50?img=44"
+    },
+    {
+        "id": 35,
+        "name": "Jordan Harris",
+        "rating": 4,
+        "message": "Returns were modest at first, but picked up after a few weeks. Works best for long-term growth rather than quick flips. Solid platform overall.",
+        "avatar": "https://i.pravatar.cc/50?img=45"
+      },
+      
+    {
+      "id": 36,
+      "name": "Megan Clark",
+      "rating": 5,
+      "message": "This platform is amazing! Set it up in 10 minutes and it's been trading successfully ever since. Way better than trying to time the market myself. +24%!",
+      "avatar": "https://i.pravatar.cc/50?img=46"
+    },
+    {
+      "id": 37,
+      "name": "Ethan Wright",
+      "rating": 4,
+      "message": "Happy with my results. The system handles both bull and bear markets pretty well. Not perfect but definitely profitable overall. Glad I signed up.",
+      "avatar": "https://i.pravatar.cc/50?img=47"
+    },
+    {
+      "id": 38,
+      "name": "Ava Mitchell",
+      "rating": 3,
+      "message": "It's fine I guess. Does what it says but I'm not blown away. Keeping it for now because it's convenient but watching the performance closely.",
+      "avatar": "https://i.pravatar.cc/50?img=48"
+    },
+    {
+      "id": 39,
+      "name": "Noah Campbell",
+      "rating": 5,
+      "message": "Best investment I've made in a while. The automated trading is smart and consistent. Finally found a crypto platform I can trust with my money.",
+      "avatar": "https://i.pravatar.cc/50?img=49"
+    },
+    {
+      "id": 40,
+      "name": "Sophie Baker",
+      "rating": 4,
+      "message": "Very good service. I appreciate the weekly performance reports and the transparency about what coins they're trading. Solid gains so far.",
+      "avatar": "https://i.pravatar.cc/50?img=50"
+    },
+    {
+        "id": 41,
+        "name": "Liam Rodriguez",
+        "rating": 4,
+        "message": "The trading style is conservative, which some may prefer. Good for people who want steady and lower-risk gains rather than aggressive swings.",
+        "avatar": "https://i.pravatar.cc/50?img=51"
+      },
+      
+    {
+      "id": 42,
+      "name": "Emma Taylor",
+      "rating": 5,
+      "message": "CryptoRiq changed my crypto experience completely! No more stress, no more bad trades. Just steady growth month after month. Can't recommend enough!",
+      "avatar": "https://i.pravatar.cc/50?img=52"
+    },
+    {
+      "id": 43,
+      "name": "Lucas Anderson",
+      "rating": 4,
+      "message": "Really like this platform. Simple to use, good returns, and they handle all the complicated stuff. Worth the subscription fee for sure.",
+      "avatar": "https://i.pravatar.cc/50?img=53"
+    },
+    {
+      "id": 44,
+      "name": "Aria White",
+      "rating": 3,
+      "message": "It's working okay. Not spectacular but not bad either. I think my expectations were too high going in. It's a tool, not a magic money maker.",
+      "avatar": "https://i.pravatar.cc/50?img=54"
+    },
+    {
+      "id": 45,
+      "name": "Mason Lopez",
+      "rating": 5,
+      "message": "Excellent platform! The AI does a better job than any human trader I know. Consistent profits, low risk management. This is the future of crypto investing.",
+      "avatar": "https://i.pravatar.cc/50?img=55"
+    },
+    {
+      "id": 46,
+      "name": "Lily Gonzalez",
+      "rating": 4,
+      "message": "Happy customer here! The platform is intuitive and the results speak for themselves. Made more in 4 months than I did in a year of DIY trading.",
+      "avatar": "https://i.pravatar.cc/50?img=56"
+    },
+    {
+      "id": 48,
+      "name": "Zoe Jackson",
+      "rating": 5,
+      "message": "Love everything about CryptoRiq! User-friendly, profitable, and reliable. This is my 7th month and I'm up over 30% total. Absolutely worth it!",
+      "avatar": "https://i.pravatar.cc/50?img=58"
+    },
+    {
+      "id": 49,
+      "name": "Owen Martinez",
+      "rating": 4,
+      "message": "Good platform with solid returns. Had a few questions about the trading strategy and they explained everything clearly. Feeling confident about it now.",
+      "avatar": "https://i.pravatar.cc/50?img=59"
+    },
+    {
+      "id": 50,
+      "name": "Mia Robinson",
+      "rating": 3,
+      "message": "Average experience. It works but I'm not seeing the huge gains others mention. Maybe different plans perform differently? Still deciding if I'll continue.",
+      "avatar": "https://i.pravatar.cc/50?img=60"
+    },
+    {
+      "id": 51,
+      "name": "Henry Walker",
+      "rating": 5,
+      "message": "This is the real deal! Been burned by scam platforms before but CryptoRiq is legit. Transparent, profitable, and professional. Finally making money in crypto!",
+      "avatar": "https://i.pravatar.cc/50?img=61"
+    },
+    {
+      "id": 52,
+      "name": "Ella Young",
+      "rating": 4,
+      "message": "Very satisfied with the service. The automated trading takes all the emotion out of investing. Seeing consistent 4-6% monthly gains which is great.",
+      "avatar": "https://i.pravatar.cc/50?img=62"
+    },
+    
+    {
+      "id": 54,
+      "name": "Avery King",
+      "rating": 5,
+      "message": "Perfect for busy people like me! Don't have time to trade but wanted crypto exposure. CryptoRiq handles everything and I'm up 21% in 4 months!",
+      "avatar": "https://i.pravatar.cc/50?img=64"
+    },
+    {
+      "id": 55,
+      "name": "Sebastian Scott",
+      "rating": 4,
+      "message": "Good solid platform. No complaints really. The trading algorithm is smart and the risk management prevents big losses. Steady growth is what I wanted.",
+      "avatar": "https://i.pravatar.cc/50?img=65"
+    },
+    {
+        "id": 56,
+        "name": "Victoria Green",
+        "rating": 4,
+        "message": "Steady growth so far. Nothing extreme, but reliable performance month after month. A good hands-off solution for crypto exposure.",
+        "avatar": "https://i.pravatar.cc/50?img=66"
+      },
+      
+    {
+      "id": 57,
+      "name": "Andrew Adams",
+      "rating": 5,
+      "message": "Phenomenal service! The platform makes crypto investing so easy. Set it and forget it. Checking my account and seeing profits every month feels great!",
+      "avatar": "https://i.pravatar.cc/50?img=67"
+    },
+    {
+      "id": 58,
+      "name": "Scarlett Baker",
+      "rating": 4,
+      "message": "Really happy with CryptoRiq. The onboarding was smooth and the trading has been profitable. Only wish was they had more educational resources about their strategy.",
+      "avatar": "https://i.pravatar.cc/50?img=68"
+    },
+    {
+        "id": 59,
+        "name": "Matthew Nelson",
+        "rating": 4,
+        "message": "After adjusting my plan and understanding the system better, returns became more consistent. Works best when you follow the recommended settings.",
+        "avatar": "https://i.pravatar.cc/50?img=69"
+      },
+      
+    {
+      "id": 60,
+      "name": "Luna Carter",
+      "rating": 5,
+      "message": "Amazing platform! I was nervous about automated trading but CryptoRiq has been incredible. Transparent, profitable, and stress-free. Highly recommend!",
+      "avatar": "https://i.pravatar.cc/50?img=70"
+    },
+    {
+      "id": 61,
+      "name": "James Mitchell",
+      "rating": 4,
+      "message": "Solid experience. The platform delivers what it promises. Gains aren't huge but they're consistent which is more important for long-term investing.",
+      "avatar": "https://i.pravatar.cc/50?img=11"
+    },
+    {
+        "id": 62,
+        "name": "Harper Perez",
+        "rating": 4,
+        "message": "Performance varies with market conditions, but overall it's trending upward. I think it just needs more time to fully show its value.",
+        "avatar": "https://i.pravatar.cc/50?img=12"
+      },
+      
+    {
+      "id": 63,
+      "name": "William Roberts",
+      "rating": 5,
+      "message": "Best decision for my portfolio! CryptoRiq's algorithm is way smarter than me at trading. Up 28% and counting. This is the passive income I've been looking for!",
+      "avatar": "https://i.pravatar.cc/50?img=13"
+    },
+    {
+      "id": 64,
+      "name": "Amelia Turner",
+      "rating": 4,
+      "message": "Very good platform. Easy to use, good customer support, and most importantly - it's profitable. Haven't had any major issues in 5 months.",
+      "avatar": "https://i.pravatar.cc/50?img=14"
+    },
+    {
+      "id": 65,
+      "name": "Elijah Phillips",
+      "rating": 1,
+      "message": "Waste of money. Barely made anything and support was unhelpful when I had concerns. There are better options out there. Don't bother with this one.",
+      "avatar": "https://i.pravatar.cc/50?img=15"
+    },
+    {
+      "id": 66,
+      "name": "Evelyn Campbell",
+      "rating": 5,
+      "message": "Absolutely fantastic! CryptoRiq takes all the guesswork out of crypto trading. Their system works and the results prove it. So glad I found them!",
+      "avatar": "https://i.pravatar.cc/50?img=16"
+    },
+    {
+      "id": 67,
+      "name": "Logan Parker",
+      "rating": 4,
+      "message": "Happy with the service. The trading performance is good and I like getting detailed reports. Only minor gripe is website could be faster sometimes.",
+      "avatar": "https://i.pravatar.cc/50?img=17"
+    },
+    {
+        "id": 68,
+        "name": "Abigail Evans",
+        "rating": 4,
+        "message": "Seeing moderate, consistent returns. Good if you're looking for long-term growth instead of quick profits. So far so good.",
+        "avatar": "https://i.pravatar.cc/50?img=18"
+      },
+      
+    {
+      "id": 69,
+      "name": "Jackson Edwards",
+      "rating": 5,
+      "message": "Top tier platform! The AI trading is legit and the support team actually knows what they're doing. Making steady profits without any stress. Love it!",
+      "avatar": "https://i.pravatar.cc/50?img=19"
+    },
+    {
+      "id": 70,
+      "name": "Emily Collins",
+      "rating": 4,
+      "message": "Great service overall. Setup was quick, trading started immediately, and I've been profitable from month one. Good alternative to doing it yourself.",
+      "avatar": "https://i.pravatar.cc/50?img=20"
+    },
+    {
+        "id": 71,
+        "name": "Aiden Stewart",
+        "rating": 4,
+        "message": "The platform is well-designed and performs steadily. Might not be for people who want aggressive gains, but great for consistent growth.",
+        "avatar": "https://i.pravatar.cc/50?img=21"
+      },
+      
+    {
+      "id": 72,
+      "name": "Madison Morris",
+      "rating": 5,
+      "message": "CryptoRiq is a game changer! Finally found a platform that actually works. Automated trading is the way to go and these guys do it right. Very happy customer!",
+      "avatar": "https://i.pravatar.cc/50?img=22"
+    },
+    {
+      "id": 73,
+      "name": "Carter Rogers",
+      "rating": 4,
+      "message": "Good experience so far. The algorithm seems well designed and handles market volatility better than I ever could. Seeing consistent growth which is nice.",
+      "avatar": "https://i.pravatar.cc/50?img=23"
+    },
+    {
+      "id": 74,
+      "name": "Layla Reed",
+      "rating": 3,
+      "message": "Decent platform. Works as advertised but nothing spectacular. Returns are okay, not amazing. It's convenient though so I'll probably keep it.",
+      "avatar": "https://i.pravatar.cc/50?img=24"
+    },
+    {
+        "id": 74,
+        "name": "Layla Reed",
+        "rating": 4,
+        "message": "Easy to use and reliable. Performance is steady and predictable, which I prefer over risky strategies. Good overall experience.",
+        "avatar": "https://i.pravatar.cc/50?img=24"
+      },
+      
+    {
+      "id": 76,
+      "name": "Penelope Morgan",
+      "rating": 4,
+      "message": "Really like this platform. Makes crypto investing accessible for regular people. Not a tech expert but found it super easy to use and it's making money!",
+      "avatar": "https://i.pravatar.cc/50?img=26"
+    },
+    {
+        "id": 77,
+        "name": "Wyatt Bell",
+        "rating": 4,
+        "message": "Took some time for the algorithm to show results, but after sticking it out the performance improved noticeably. Glad I gave it a chance.",
+        "avatar": "https://i.pravatar.cc/50?img=27"
+      },
+      
+    {
+      "id": 78,
+      "name": "Riley Murphy",
+      "rating": 5,
+      "message": "This platform is legit! Skeptical at first but they've proven themselves over and over. Smart trading, good profits, zero stress. What more could you want?",
+      "avatar": "https://i.pravatar.cc/50?img=28"
+    },
+    {
+      "id": 79,
+      "name": "Grayson Bailey",
+      "rating": 4,
+      "message": "Solid platform for automated crypto trading. The algorithms work well and customer service is responsive. Happy with my decision to subscribe.",
+      "avatar": "https://i.pravatar.cc/50?img=29"
+    },
+    
+    {
+      "id": 81,
+      "name": "Isaac Cooper",
+      "rating": 5,
+      "message": "CryptoRiq is amazing! Hands down the best automated trading platform. Easy setup, great performance, and actually profitable. Can't say enough good things!",
+      "avatar": "https://i.pravatar.cc/50?img=31"
+    },
+    {
+      "id": 82,
+      "name": "Hazel Richardson",
+      "rating": 4,
+      "message": "Very happy with my experience. The trading bot makes smart moves and the monthly returns are solid. Worth every penny of the subscription fee.",
+      "avatar": "https://i.pravatar.cc/50?img=32"
+    },
+    {
+      "id": 83,
+      "name": "Gabriel Cox",
+      "rating": 1,
+      "message": "Not good at all. Lost money and support wasn't helpful. Feel like I wasted my subscription fee. Would not recommend to anyone.",
+      "avatar": "https://i.pravatar.cc/50?img=33"
+    },
+    {
+      "id": 84,
+      "name": "Violet Howard",
+      "rating": 5,
+      "message": "Love this platform! Makes crypto investing so simple. Just connect and let it work. Been profitable every single month. Best investment tool I've found!",
+      "avatar": "https://i.pravatar.cc/50?img=34"
+    },
+    {
+      "id": 85,
+      "name": "Julian Ward",
+      "rating": 4,
+      "message": "Good service. The automated trading works well and saves me tons of time. Profits are steady and the platform is reliable. Glad I signed up.",
+      "avatar": "https://i.pravatar.cc/50?img=35"
+    },
+    {
+        "id": 86,
+        "name": "Stella Torres",
+        "rating": 4,
+        "message": "Convenient and easy to manage. Returns are steady and predictable. Good for anyone who wants a hands-off crypto strategy.",
+        "avatar": "https://i.pravatar.cc/50?img=36"
+      },
+      
+    {
+      "id": 87,
+      "name": "Leo Peterson",
+      "rating": 5,
+      "message": "Fantastic platform! The AI is smart, the results are real, and the whole experience is smooth. This is how crypto investing should be. Highly recommended!",
+      "avatar": "https://i.pravatar.cc/50?img=37"
+    },
+    {
+      "id": 88,
+      "name": "Aurora Gray",
+      "rating": 4,
+      "message": "Really pleased with CryptoRiq. Simple interface, effective trading, and good profits. Been with them 6 months and plan to continue.",
+      "avatar": "https://i.pravatar.cc/50?img=38"
+    },
+    {
+        "id": 89,
+        "name": "Jaxon Ramirez",
+        "rating": 4,
+        "message": "Performance has been decent and stable. Not a get-rich-quick system, but great for steady gains. Happy with it so far.",
+        "avatar": "https://i.pravatar.cc/50?img=39"
+      }
+      
+  ]
+  

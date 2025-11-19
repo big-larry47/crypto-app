@@ -1,0 +1,58 @@
+/* Base styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #0b0b12; /* unified background */
+}
+
+#app {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Links */
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+/* Desktop layout tweaks */
+@media (min-width: 1024px) {
+  #app {
+    width: 100vw;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #0b0b12; /* full background */
+  }
+  
+
+  /* optional: maintain full-width bg */
+  body {
+    background-color: #0b0b12;
+  }
+}
+
+/* Mobile overrides */
+@media (max-width: 1023px) {
+  #app {
+    max-width: 100%;   /* full width */
+    margin: 0;
+    padding: 1rem;     /* optional padding for mobile */
+  }
+
+  body {
+    display: block;
+  }
+}
