@@ -16,8 +16,8 @@
   <script setup>
   import Header from '@/components/Header.vue'
   import Footer from '@/components/Footer.vue'
-  import HeroSection from './sections/HeroSection.vue'
-  import NewsList from './sections/NewsList.vue'
+  import HeroSection from './Sections/HeroSection.vue'
+  import NewsList from './Sections/NewsList.vue'
   import './news.css'
   </script>
   
